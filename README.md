@@ -1,2 +1,4 @@
 # gctest
-这是我测试用的
+Welcome to the Saturn wiki!
+
+See the menu at the right side.
